@@ -127,4 +127,10 @@ dist
 .yarn/unplugged
 .yarn/build-state.yml
 .yarn/install-state.gz
+<<<<<<< HEAD
 .pnp.*
+.vercel
+.env*.local
+=======
+.pnp.*
+>>>>>>> 9d1dc6f62630fe8343a7db8a24acacfc3c3b19c8
