@@ -1,10 +1,10 @@
-const mongoose = require('mongoose')
 const dotenv = require('dotenv')
 const express = require('express')
 const bodyParser = require('body-parser');
 const cors = require('cors')
 const authRouter = require('./routes/auth')
 const userRouter = require('./routes/users')
+const mongoose = require('mongoose')
 
 const app = express()
 app.use(cors())
